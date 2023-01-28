@@ -1,0 +1,35 @@
+Among U.S. News's top [30 computer science schools](https://www.usnews.com/best-graduate-schools/top-science-schools/computer-science-rankings), only 1 lists security as an undergraduate degree requirement. B.S. in Computer Science at Oklahoma State University considers security as major requirement. 
+
+| School Name                            | Requires Security? | Link                                                                                                                                |
+|----------------------------------------|--------------------|-------------------------------------------------------------------------------------------------------------------------------------|
+| Massachusetts Institute of Technology  | No                 | http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/                                                       |
+| Carnegie Mellon University             | No                 | http://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/undergraduatecomputerscience/#bscurriculumtextcontainer   |
+| Stanford University                    | No                 | https://cs.stanford.edu/degrees/ug/Requirements.shtml                                                                               |
+| University of California-Berkeley      | No                 | https://guide.berkeley.edu/undergraduate/degree-programs/computer-science/#majorrequirementstext                                    |
+| University of Illinois-Urbana Champaign| No                 | https://grainger.illinois.edu/academics/undergraduate/majors-and-minors/cs-map                                                      |
+| Cornell University                     | No                 | https://www.cs.cornell.edu/undergrad/csmajor                                                                                        |
+| Georgia Institute of Technology        | No                 | https://www.cc.gatech.edu/degree-programs/bachelor-science-computer-science                                                         |
+| University of Washington               | No                 | https://www.cs.washington.edu/academics/ugrad/current-students/degree                                                               |
+| Princeton University                   | No                 | https://www.cs.princeton.edu/ugrad/becoming-cs-major/requirements                                                                   |
+| University of Texas at Austin          | No                 | https://www.cs.utexas.edu/undergraduate-program/academics/curriculum                                                                |
+| California Institute of Technology     | No                 | https://www.cms.caltech.edu/academics/ugrad/ugrad_cs                                                                                |
+| Columbia University                    | No                 | https://www.cs.columbia.edu/education/undergraduate/                                                                                |
+| University of California-Los Angeles   | No                 | https://catalog.registrar.ucla.edu/major/2022/ComputerScienceBS                                                                     |
+| University of California-San Diego     | Yes                | https://cse.ucsd.edu/undergraduate/bs-computer-science                                                                              |
+| University of Michigan-Ann Arbor       | No                 | https://cse.engin.umich.edu/academics/undergraduate/computer-science-eng/                                                           |
+| Harvard University                     | No                 | https://seas.harvard.edu/computer-science/undergraduate-program                                                                     |
+| University of Maryland-College Park    | No                 | https://undergrad.cs.umd.edu/degree-requirements-cs-major                                                                           |
+| University of Pennsylvania             | No                 | https://catalog.upenn.edu/undergraduate/programs/computer-science-bse/                                                              |
+| University of Wisconsin--Madison       | No                 | https://guide.wisc.edu/undergraduate/letters-science/computer-sciences/computer-sciences-bs/                                        |
+| Johns Hopkins University               | No                 | https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/degree-programs/computer-science/computer-science-bs/        |
+| Purdue University-West Lafayette       | No                 | https://www.cs.purdue.edu/undergraduate/curriculum/bachelor.html                                                                    |
+| Yale University                        | No                 | http://catalog.yale.edu/ycps/subjects-of-instruction/computer-science/                                                              |
+| Duke University                        | No                 | https://www.cs.duke.edu/undergrad/bs                                                                                                |                                
+| University of Massachusetts-Amherst    | No                 | https://www.cics.umass.edu/content/revised-bs-requirements-effective-september-2016                                                 |
+| University of Southern California      | No                 | https://www.cs.usc.edu/academic-programs/undergrad/computer-science/                                                                |
+| Brown University                       | No                 | https://bulletin.brown.edu/the-college/concentrations/comp/                                                                         |
+| University of North Carolina           | No                 | https://catalog.unc.edu/undergraduate/programs-study/computer-science-major-bs/                                                     |
+| Northwestern University                | No                 | https://catalogs.northwestern.edu/undergraduate/engineering-applied-science/computer-science/computer-science-degree/               |
+| Rice University                        | No                 | https://ga.rice.edu/programs-study/departments-programs/engineering/computer-science/computer-science-bscs/                         |
+| University of California-Irvine        | No                 | https://catalogue.uci.edu/donaldbrenschoolofinformationandcomputersciences/departmentofcomputerscience/computerscience_bs/          |
+| Oklahoma State University              | Yes                | http://catalog.okstate.edu/arts-sciences/computer-science/bs/                                                                       |
